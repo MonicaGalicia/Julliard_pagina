@@ -1,0 +1,54 @@
+@media (max-width:650px){
+	#studio{
+		font-size:18px;
+	}
+
+	#boton1{
+		width:60px;
+		height:20px;
+		margin-top:-5%;
+	}
+
+    .bailarin{
+	
+	height:200px; 
+	
+
+}
+
+.bailarin2{
+	width:49%;
+}
+
+
+
+}
+
+@media(max-width:800px){
+	#botonbailarin{ /*boton nuestros bailarines*/
+	position:absolute;
+	left:150px !important;
+	}
+
+	.sizeteach{
+	
+	height:200px;
+	
+	
+}
+
+
+.imgfondo{
+height:400px;
+
+}
+
+.imgfondo{
+background-size:100%;
+margin-bottom:1% !important;
+margin-left: 1%;
+}
+
+}
+
+

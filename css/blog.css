@@ -1,0 +1,60 @@
+
+img{
+	width:320px;
+	height:220px;
+	margin-left:130px;
+	margin-top:30px;
+}
+
+#fondo1{
+	width:100%;
+	height:850px;
+	margin:40px 0px;
+}
+
+h2{
+	margin-top:30px;
+}
+.img{
+	width:100%;
+	height:220px;
+}
+.fondoimgblog{
+	height:220px;
+	width:80%;
+	background-color:grey;
+	margin-left:0px;
+	padding-top:2%;
+	margin-top:30px;
+	
+}
+.text-white{
+	color:white !important	;
+}
+
+h4,h5,p{
+	margin-left:15px;
+
+}
+
+h5{
+	color:rgb(244, 244, 244);
+}
+
+h4{
+	margin:10px;
+}
+
+button{
+	width:25%;
+	height:25px;
+	background-color:#192951;
+	border:none;
+	margin:auto;
+	display:block;
+	border-radius:2px;
+	color:white;
+}
+
+
+/**/

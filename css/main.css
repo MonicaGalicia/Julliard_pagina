@@ -1,0 +1,145 @@
+
+
+/*primera sección*/
+#fondo{
+background-image:url("../img/dance_1.jpg");
+background-size:100%;
+width:100%;
+margin-top:25px;
+height:300px;
+background-repeat:no-repeat;
+}
+
+
+
+#studio{
+	font-size:45px;
+	margin-top:50px;
+	margin-left:50px;
+}
+
+#box-studio{
+	width:220px;
+	height:40px;
+	margin-left:50px;
+	font-size:12px;
+	opacity:5%;
+}
+
+/*seccion bailarin*/
+.bailarin{
+	width:49%;
+	height:400px; 
+	display:inline-block;
+
+}
+
+.bailarin2{
+	width:50%;
+	height:400px; 
+	display:inline-block;
+}
+
+
+/*segunda secciónn oferta*/
+
+#poferta{
+	margin-top:45px;
+}
+
+#boton1{    /*boton Inscribete*/
+ 	width:120px;
+	height:40px; 
+	background-color:#192951;
+	border:#192951;
+}
+
+#deco{
+	width:150px;
+	height:100px; 
+	display:block;
+	margin:auto;
+	}
+
+#boton{ /*boton Ofertaclases*/
+width:200px;
+height:45px; 
+background-color:#192951;
+border:#192951;
+border-radius:5px;
+display:block;
+margin:auto;
+margin-bottom:45px;
+}
+
+/*tercera sección*/
+
+#botonbailarin{ /*boton nuestros bailarines*/
+	width:300px;
+	height:45px; 
+	background-color:#192951;
+	border:#192951;
+	border-radius:5px;
+	position:absolute;
+	left:550px;
+	top:355px;
+	bottom:3px;
+	}
+
+/*cuarta sección mapa*/
+
+.bg-blue{
+	background-color:#192951;
+	border:#192951;
+	
+}
+
+.tex-2{
+	background-image:url("../img/textura_2.jpg");
+	background-size:100%;
+	height:300px;
+	width:100%;
+	margin-top:0px;
+
+}
+
+.bg-mapa{
+	width:100%;
+	height:400px; 
+}
+
+.textmap{
+	font-size:13px;
+	margin-left:45px;
+
+}
+
+iframe{
+	margin:35px;
+	width:500px; 
+	height:320px; 
+	border:0; 
+	
+}
+
+.marginpf{
+	margin-top:45px;
+	margin-left:45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*comun*/
+
+
+
+
+
